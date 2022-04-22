@@ -44,10 +44,10 @@ namespace UltimateCalculator
             Console.WriteLine("Mean average: " + average);
             
             Console.ForegroundColor = ConsoleColor.Magenta;
-            Console.WriteLine("Number 1 squared: " + num01S);
+            Console.WriteLine("Input 1 squared: " + num01S);
             
             Console.ForegroundColor = ConsoleColor.DarkMagenta;
-            Console.WriteLine("Number 2 squared :" + num02S + "\n");
+            Console.WriteLine("Input 2 squared: " + num02S + "\n");
             
             Console.ForegroundColor = ConsoleColor.DarkGray;
             Console.WriteLine("[Press SPACEBAR to exit]");
